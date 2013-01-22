@@ -6,7 +6,7 @@ After the first lesson you should know a little about git and heroku, and have s
 
 ##Reading
 
-Read [the node beginner book](http://www.nodebeginner.org/). Remember, all the code can also be run in your console.
+Read [the node beginner book](http://thepaulbooth.com/NodeBeginnerBook). Remember, all the code can also be run in your console.
 
 ##Assignment
 
